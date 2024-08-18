@@ -1,0 +1,180 @@
+# Operating System Files
+.DS_Store          # macOS Finder metadata
+Thumbs.db          # Windows image cache
+
+# IDE and Editor Specific Files
+.vscode/           # Visual Studio Code
+.idea/              # IntelliJ IDEA
+*.suo              # Visual Studio
+*.user             # Visual Studio
+*.swp              # Vim swap files
+*.sublime-workspace # Sublime Text workspace
+
+# Node.js Specific
+node_modules/      # Node.js dependencies
+npm-debug.log      # npm debug log
+yarn-error.log     # Yarn error log
+
+# Python Specific
+__pycache__/       # Python cache files
+*.pyc              # Python bytecode files
+*.pyo              # Python optimization files
+*.pyd              # Python dynamic modules
+venv/              # Virtual environment directory
+
+# Java Specific
+*.class            # Java class files
+*.jar              # Java ARchive files
+*.war              # Web application archive files
+*.ear              # Enterprise application archive files
+
+# Ruby Specific
+*.gem              # Ruby gems
+.bundle            # Bundler configuration
+log/               # Log files
+tmp/               # Temporary files
+
+# Build Output
+build/             # Build output directory
+dist/              # Distribution directory
+*.log              # Log files
+*.out              # Output files
+
+# Configuration Files
+*.env              # Environment variables file
+*.local            # Local configuration files
+
+# Docker Files
+docker-compose.override.yml # Docker Compose override file
+docker-compose.local.yml    # Docker Compose local configuration
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Package Distribution
+*.tgz
+*.zip
+
+# Miscellaneous
+*.sublime-project
+*.sublime-workspace
+*.nib
+*.lock
+*.pid
+*.seed
+*.key
+*.pub
+*.pem
+
+# IDE/Editor files
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.cache
+*.project
+*.classpath
+
+# System Files
+*.DS_Store
+*.desktop
+# Build results for C#
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Ll]ogs/
+[Ll]og/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.vsix
+*.appx
+*.appxbundle
+*.package
+*.suo
+*.user
+*.userosscache
+*.csproj.user
+*.csproj.*
+*.dcu
+*.dsk
+*.dsw
+*.vscode/
+.vscode/
+*.tmp
+*.swp
+*.bak
+*.old
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+
+# DotCover
+*.dotCover
+
+# ReSharper
+*.DotSettings.user
+*.DotSettings
+*.resharper
+*.resharper.user
+
+# Log files
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.old
+*.swo
+
+# Angular Specific
+node_modules/        # Node.js dependencies
+dist/                # Build output
+*.log                # Log files
+*.tmp                # Temporary files
+*.swp                # Swap files
+*.sublime-workspace  # Sublime Text workspace files
+*.DS_Store           # macOS Finder metadata
+package-lock.json    # npm lock file (optional, you might want to keep this)
+
+# Angular IDE and Tools
+.vscode/             # Visual Studio Code workspace settings
+.idea/                # JetBrains IDEs (like WebStorm) workspace settings
+.angular/            # Angular CLI configuration files
+
+# Environment-specific files
+*.env                # Environment variables file
+*.local              # Local configuration files
+*.npmrc              # npm configuration files
+*.yarnrc             # Yarn configuration files
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.swp
+*.sublime-workspace
+
